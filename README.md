@@ -3,3 +3,6 @@ Python program which analyzes South Pole Telescope data, using  a shift and stac
 
 Working Files are:
 - workflow_weighted.py
+
+
+NOTE: The south pole telescope maps are massively large and size, and also that data isn't mine, thus the maps necessary to run this program are not on this github.
